@@ -1,0 +1,17 @@
+{
+  "name": "AVAR Sovereign AI v2.0",
+  "short_name": "AVAR Royal",
+  "description": "Fadar Sarauta Ta AVAR ROYAL FAMILY ACCESS Karƙashin Jagorancin Sarki Abbas Aliyu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#01142f",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/crown.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

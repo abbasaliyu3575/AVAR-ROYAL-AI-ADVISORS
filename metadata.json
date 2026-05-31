@@ -1,0 +1,11 @@
+{
+  "name": "AVAR ROYAL FAMILY ACCESS",
+  "description": "The official verified trust directory, philanthropy registry, and sovereign security portal of the AVAR Royal Family. Built for absolute legitimacy and secure member access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
